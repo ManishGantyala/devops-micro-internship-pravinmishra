@@ -23,20 +23,14 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+By taking the help of ChatGPT as a learning assistant, it helped me understand the concepts through real-world scenarios. I also learned that the prompt should be clear and follow the required instructions to get better explanations. I learned that communication between two devices works only when both follow the same rules. Just like two people need to speak the same language to understand each other, computers also follow the same rules to exchange information. Whenever I access a website, my computer and the server communicate by following these rules.
 
----
 
 # 🌐 Task 2: Internet and Networking
 
@@ -59,7 +53,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user from India opens epicreads.com, which is hosted in Finland, the browser first needs to know where the website is located. It uses the website's IP address, which works like a house address and helps the request reach the correct server in Finland. To communicate with the server, both the user's computer and the server follow TCP/IP, a set of communication rules that ensures the request reaches the destination correctly and the response is received in the right order. During this communication, the data is divided into small pieces using Packet Switching so it can travel efficiently across the network and be combined back into the original data when it reaches the destination. Finally, the web browser and the server use HTTP to exchange the website's content, while HTTPS secures and encrypts the communication so the data remains protected during transmission.
 
 ---
 
@@ -89,31 +83,26 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
 ![Application Architecture Diagram](screenshots/task-3-diagram.png)
-
-
-Replace `task-3-diagram.png` with your actual diagram file name.
-
 ---
 
 ## Technologies Used
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML (HyperText Markup Language)
+* CSS (Cascading Style Sheets)
+* React.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +131,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+* Domain Name System(DNS): It is a system that converts a human-readable domain name into an IP address. It allows users to access a website using a domain name instead of remembering its IP address. For example, instead of accessing the bookstore using 52.172.142.222:3000, users can simply enter epicreads.com, and DNS automatically finds the correct IP address.
+
+* An A record is used to connect a domain name to an IPv4 address. It maps epicreads.com to 52.172.142.222, so users can access the bookstore using the domain name instead of the IP address.
 
 ---
 
@@ -176,12 +167,8 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -218,7 +205,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/manish-gantyala_dmibypravinmishra-devops-networking-ugcPost-7489383203569352704-mpvy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqt21EB4eFz2Y0PwHT2lP9NrT7NlvawSpw
 ```
 
 ---
@@ -227,28 +214,69 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🌐 I typed epicread,com into the browser and pressed Enter.
 
+A webpage appeared almost instantly.
+
+I've done this thousands of times, but this time I paused to think about everything that happened before the page appeared.
+
+I've come across concepts like DNS, IP Address, TCP/IP, Packet Switching, and HTTP/HTTPS many times. What changed this week wasn't learning new terms—it was following one website request from start to finish instead of treating each concept separately.
+
+🔄 Type epicreads,com → 🌍 DNS resolves the domain to an IP address → 🤝 TCP/IP establishes the connection → 📦 Packet Switching carries the data across the network → 🔒 HTTP/HTTPS exchanges the request and response → 🖥️ The browser renders the webpage.
+
+Seeing the entire flow made the concepts feel connected rather than isolated.
+
+🏗️ The same perspective carried over to application architecture.
+
+The request doesn't stop once it reaches the server. It continues through the frontend, backend, and database, where each layer has a clear responsibility before the response makes its way back to the browser.
+
+Earlier, I focused on the layers.
+
+Now I focus on how a request moves through them.
+
+🤖 One thing that also changed was the way I used ChatGPT.
+I'd ask questions like,
+
+"𝘐𝘧 𝘱𝘢𝘤𝘬𝘦𝘵𝘴 𝘤𝘢𝘯 𝘢𝘳𝘳𝘪𝘷𝘦 𝘰𝘶𝘵 𝘰𝘧 𝘰𝘳𝘥𝘦𝘳, 𝘩𝘰𝘸 𝘥𝘰𝘦𝘴 𝘮𝘺 𝘣𝘳𝘰𝘸𝘴𝘦𝘳 𝘬𝘯𝘰𝘸 𝘸𝘩𝘪𝘤𝘩 𝘱𝘪𝘦𝘤𝘦 𝘤𝘰𝘮𝘦𝘴 𝘧𝘪𝘳𝘴𝘵?"
+
+The answer led me to TCP sequence numbers, and suddenly packet switching wasn't just another networking topic anymore.
+
+It finally had a reason to exist.
+
+💻 That same way of thinking carried into my development environment.
+
+VS Code stopped feeling like just an editor. It became the place where the whole flow—from frontend to backend to database—comes together while building, debugging, and experimenting.
+
+One thing I'll carry forward is this:
+
+When I stop looking at technologies individually and start following the complete flow, everything becomes easier to reason about.
+
+💬 Following one complete request changed the way I looked at networking.
+What's one concept you thought you understood until you had to actually use it?
+I'd love to hear your perspective.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. 
+My graded progress is public: https://lnkd.in/dRtxpAKW
+Start your DevOps journey: https://lnkd.in/d8FWehp3
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+As a DevOps enthusiast, I liked the explanations of the concepts because they helped me understand them better with real-world examples. I am always interested in learning new tools.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+I always wanted to understand how the Internet actually works, but initially it was difficult because of my lack of knowledge. Practicing the concepts practically added more value and made them easier to understand.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+I will keep focusing on learning things practically instead of relying only on theoretical concepts. I want to gain more practical exposure throughout my learning journey.
 ---
 
 ## 📌 About DMI & CloudAdvisory
