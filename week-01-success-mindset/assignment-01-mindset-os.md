@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that most people spend more time learning than actually building something with what they learn, and I think that's one of the biggest reasons they don't make real progress. Around me, I often see people jumping from one course, certificate, or new technology to another, hoping it will make them better. I used to think the same way.
+
+Over time, I realized that building projects, making mistakes, solving real problems, and understanding the fundamentals taught me far more than simply finishing another course. New tools and technologies will keep changing, but strong fundamentals stay with you throughout your career. That's why I now focus more on applying what I learn and creating proof of my work instead of trying to learn every new trend.
 
 ---
 
@@ -55,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice leads to steady improvement.
 
 ### Evidence from my life
 
-Add your answer here...
+When I first started learning DevOps, even simple tasks took me a long time to understand. There were days when I felt like I wasn't making any progress. But by staying consistent with projects, labs, and assignments, I slowly became more comfortable with the concepts. Looking back now, I can clearly see how much I've improved just by continuing to practice.
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Building real projects teaches more than consuming learning content.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to spend a lot of time watching tutorials and reading documentation. It felt productive, but I realized I understood things much better only after I started building projects myself. Every project came with unexpected problems, and solving those problems taught me lessons that I never got from watching videos alone.
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Documenting what you build improves understanding and retention.
 
 ### Evidence from my life
 
-Add your answer here...
+Earlier, I would finish a project and move on to the next one without documenting what I had done. Later, I started writing proper README files, sharing blogs, and posting my learning publicly. I noticed that documenting my work helped me remember concepts better, explain them more confidently, and also created a record of how much I had grown over time.
 
 ---
 
@@ -135,13 +137,29 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+## The Story I Hope My Career Tells One Day
+
+A few years later, people knew Manish Gantyala as an engineer who could be trusted when systems mattered the most. Whether it was a production deployment, an infrastructure issue, or an unexpected incident, he approached every situation with a calm and practical mindset. That reputation wasn't built overnight. It was the result of years of consistent learning, hands-on experience, and a commitment to improving a little every day.
+
+His career began in broadcast operations, where he worked in live production environments that demanded reliability, quick decision-making, and accountability. Those experiences shaped the way he approached engineering and became a strong foundation when he transitioned into Cloud and DevOps.
+
+As a DevOps Engineer, Manish became actively involved in maintaining and improving production environments. He worked on cloud infrastructure, automated deployments, managed CI/CD pipelines, monitored application health, and collaborated closely with development teams to deliver reliable software. He believed that good DevOps was not measured by how quickly software was released, but by how confidently it could be deployed, monitored, and operated in production.
+
+With experience, his responsibilities expanded beyond day-to-day operations. He contributed to improving Infrastructure as Code practices, strengthening observability, automating repetitive operational tasks, and participating in post-incident reviews to identify root causes and prevent similar issues from happening again. Every challenge became an opportunity to improve the system rather than simply fix the immediate problem.
+
+Outside of work, Manish continued sharing his journey through GitHub, technical blogs, and project documentation. He believed that documenting both successes and failures helped him grow as an engineer while also helping others who were making a similar career transition. Over time, he began mentoring aspiring engineers by sharing practical advice, reviewing projects, and encouraging them to focus on building real skills instead of chasing shortcuts.
+
+His curiosity also led him beyond traditional DevOps. He explored backend engineering, MLOps, and AI-assisted software development to better understand the complete software lifecycle and become a more versatile engineer. Rather than following every new trend, he focused on strengthening his fundamentals and applying them to solve real engineering problems.
+
+Looking back, his career wasn't defined by one breakthrough or one successful project. It was built through consistent execution, continuous learning, and taking ownership of every opportunity to improve. More than the technologies he worked with, people remembered him for his reliability, willingness to help others, and the quality of the work he consistently delivered.
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+📖 **Hashnode Article:**
+https://manishgantyala.hashnode.dev/the-story-i-hope-my-career-tells-one-day
 
 ---
 
@@ -173,7 +191,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+There were times when I took the easier route instead of putting in the effort I knew I should have. It wasn’t anything illegal or meant to be dishonest, but I would avoid difficult work, push important tasks aside, and look for shortcuts just because they felt more comfortable in the moment.
+
+Even though it gave me some temporary relief, that feeling never really stayed. Afterward, I often felt guilty, disappointed, and a bit frustrated with myself because I knew I could have done better. When I look back, I realize those shortcuts only slowed me down and slowly affected my confidence in what I was capable of.
+
+Those experiences really changed how I think about growth. Now, I try to remind myself that what feels easy in the short term can cost a lot in the long run. I’d rather struggle a bit and actually learn something properly than look back later and regret not giving my best effort.
 
 ---
 
@@ -199,16 +221,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Phoenix Project — Gene Kim, Kevin Behr & George Spafford
+2. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis
+3. Designing Data-Intensive Applications — Martin Kleppmann
+4. The Pragmatic Programmer — Andrew Hunt & David Thomas
+5. Atomic Habits — James Clear
+6. Deep Work — Cal Newport
+7. Mindset — Carol S. Dweck
+8. How to Win Friends and Influence People — Dale Carnegie
+9. The Almanack of Naval Ravikant — Eric Jorgenson
+10. Thinking, Fast and Slow — Daniel Kahneman
 
 ---
 
@@ -237,17 +259,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-
+* Learning consistency
+* Hands-on project completion
+* GitHub contributions
+* Technical blogs and documentation
+* Interview preparation
+* Networking and meaningful professional connections
+* Deep work sessions
+* Health and physical activity
+* Sleep quality
+* Personal finance and spending
 ---
 
 # Assignment 7. Brain Dump + 5-Month System Plan
@@ -272,7 +293,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +311,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday to Friday: Learning, project work, and job preparation.
+* Saturday: DMI Self-Paced Learning, assignment completion, and portfolio updates.
+* Sunday: Weekly review, planning, documentation, and personal time.
 
 ---
 
@@ -298,11 +321,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I have planned dedicated DMI sessions on Saturday and Sunday evenings. During the weekdays, I will spend additional time whenever possible to complete smaller tasks, revise concepts, or improve my project documentation.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4–6 focused sessions, depending on my work schedule and weekly goals.
 
 ---
 
@@ -316,7 +339,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone away during focused work sessions.
+* Avoid social media until I complete my planned work for the day.
+* Work with a clear task list before opening YouTube or searching for new resources.
+* Finish the current task before jumping to another technology or tutorial.
+* Keep my workspace clean and free from unnecessary distractions.
 
 ---
 
@@ -324,28 +351,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Revisiting these questions made me realize how much my thinking has changed over the past few months. Earlier, I focused mostly on learning new technologies. Now, I focus more on building projects, documenting my work, and creating proof of what I know. My mindset has shifted from collecting knowledge to applying it consistently.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I still have a habit of spending too much time trying to make everything perfect before moving forward. While planning and understanding are important, I perform much better when I start building, learn from mistakes, and improve along the way instead of waiting for the perfect approach.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every evening before ending my work, I will spend 15 minutes planning the next day's priorities. This will help me start each day with a clear direction instead of deciding what to do after sitting at my desk.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/manish-gantyala_dmibypravinmishra-devops-careergrowth-share-7490857911720574976-Pnm4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqt21EB4eFz2Y0PwHT2lP9NrT7NlvawSpw
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[My Reflection](https://www.linkedin.com/posts/manish-gantyala_dmibypravinmishra-devops-careergrowth-share-7490857911720574976-Pnm4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqt21EB4eFz2Y0PwHT2lP9NrT7NlvawSpw)**  
+- Blog / Medium : **[My Version 2.0](https://manishgantyala.hashnode.dev/the-story-i-hope-my-career-tells-one-day)**  
 
 ---
 
